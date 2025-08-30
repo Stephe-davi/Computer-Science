@@ -10,3 +10,19 @@ Learn the following:
 -- CSS
 
 -- Javascript
+
+-- Python (Want to learn more about it, make code more optimized)
+
+-- Java
+
+-- C#
+
+-- C++
+
+## Main Projects
+
+-
+
+## School Projects
+
+-

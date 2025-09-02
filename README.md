@@ -1,6 +1,6 @@
 # Computer-Science
 For high-school computer science class.
-For whatever in here for school including my own projects and schools projects
+Whatever in here for school, including my own and schools projects
 
 ## Goals
 Learn the following:
@@ -19,10 +19,12 @@ Learn the following:
 
 -- C++
 
-## Main Projects
+## Personal Projects
 
--
+- First Website
+- 
 
 ## School Projects
 
 -
+

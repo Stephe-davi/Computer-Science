@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(23, 23, 23);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+p{
+    padding-left: 5%;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    text-align: center;
+}
+
+.TopBar{
+    background-color: rgb(3, 3, 3);
+    height: 110px;
+    margin-left: -9px;
+    margin-right: -9px;
+    margin-top: -10px; 
+    
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    border-radius: 35%;
+    cursor: pointer;
+
+}
+
+
+#Temp{
+    height: 120px;
+    padding: 20px;
+    margin-top: 100%;
+    background-color: rgb(58, 58, 134);
+
+}
+
+.MainGame{
+    margin-top: 3px;
+    background-color: rgb(116, 73, 73);
+    height: 760px;
+    width: px;
+    margin-left: -8px;
+    margin-right: -8px;
+    align-content: center;
+}
+
+.GameName{
+    color: white;
+    font-family:sans-serif; 
+    text-decoration-line: underline;
+        
+    text-decoration-thickness: 1px;
+    text-underline-offset: .4em;
+    
+}
+
+
+.GameData{
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 60%;
+    height: 30%;
+
+    align-content:center;
+    text-align:center;
+}
+
+
+.TopButtons{
+    display: flex;
+    position: relative;
+    right: 25%;
+    bottom: 75px;
+    margin-left: 27%;
+    margin-right: 63%;
+}
+
+.TopButton{
+    margin-right: 6px;
+    width: 90px;
+}
+
+
+.HoverColor:hover{
+    color: rgb(170, 169, 169);
+}

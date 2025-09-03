@@ -22,7 +22,8 @@ Learn the following:
 ## Personal Projects
 
 - First Website
-- 
+- Second Website (RiverSky Studio)
+-
 
 ## School Projects
 

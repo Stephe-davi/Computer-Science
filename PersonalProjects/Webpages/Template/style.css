@@ -1,0 +1,118 @@
+body{
+    /*Change Sites Background Color*/
+    background-color: rgb(255, 255, 255);
+}
+
+
+.title{
+    /* Change the color of title Here: */
+    color: rgb(0, 0, 0);
+
+
+    /* Set height and width*/
+
+
+    /* Behind Title */
+    background-color: rgb(36, 171, 65);
+
+    /* Remove This If you want it to be on the left side 
+       Or change "center" to "left" or "right"
+    */
+    text-align: center;
+
+    /*Change this to change the size of the title*/
+    font-size: 32px;
+
+    /* Padding & margin */
+    padding: 10px;
+    margin: auto;
+}
+
+/* Created By Stephen - 2024*/
+
+.abt-div2{
+    margin-top: 1%;
+    margin-left: 1%;
+    min-width: 45%;
+    max-width: 85%;
+    text-align: left;
+    float: left;
+    padding: 15px;
+}
+
+
+.para{
+    margin: 2%;
+    border: 5px;
+    padding: 1%;
+
+    /* 
+        Change Color, Style of border
+        or get rid of it for no border
+    */
+    border-color: black;
+    border-style:double;
+}
+
+.image-of-self{
+    margin-top: 1%;
+    margin-left: 1%;
+    float: left;
+    text-align: right;
+}
+
+.photo{
+    /* Change the roundness of image */
+    border-radius: 15%;
+}
+
+.about-content{
+    flex-grow: 1;
+    flex-basis: 200;
+}
+
+/* Created By Stephen - 2024*/
+
+.maincontent{
+    /* Color For About Me Section */
+    background-color: rgb(47, 141, 81);
+
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.hobbies-section{
+    background-color: rgb(126, 123, 123);
+    width: 100%;
+}
+
+
+
+.hobbie-title{
+    margin: 2%;
+    margin-left: 25%;
+    width: 50%;
+}
+
+
+.hobbies{
+    padding: 1%;
+    text-align: left;
+    display: flex;
+}
+
+.hobbyphoto{
+    flex-wrap: wrap;
+    float: right;
+    height: 100px;
+    border-radius: 20%;
+    
+}
+
+.links{
+    padding: 2%;
+    background-color: rgb(102, 102, 102);
+    width: 100%;
+    text-align: left;
+}

@@ -27,5 +27,6 @@ Learn the following:
 
 ## School Projects
 
+- Assignment #1 (Due September 8th 2025)
 -
 
